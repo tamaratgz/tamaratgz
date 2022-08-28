@@ -2,18 +2,13 @@
 <h3 align="center">A passionate Project Manager and full-stack developer from Spain, with special interest in front-end 👩🏻‍🎨</h3>
 
 
+NOW
 - 🔭 I’m currently working on [Con cola & pajarita](https://concolaypajarita.com/)
-
 - 👯 I’m looking to collaborate on **any creative projects!**
-
 - 🤝 I’m looking for help with [Deal app](http://deal-app.me/)
-
 - 👨‍💻 All of my projects are available at [https://troopl.com/tamaratgz](https://troopl.com/tamaratgz)
-
 - 💬 Ask me about **Ruby on Rails, HTML, CSS, JS**
-
-- 📫 How to reach me **tamaratgz@gmail.com**
-
+- 📫 How to reach me *tamaratgz@gmail.com*
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-cSUBmnRGpTxQpa-iSl1NbZJQeZaDAB0/view?usp=sharing](https://drive.google.com/file/d/1-cSUBmnRGpTxQpa-iSl1NbZJQeZaDAB0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
