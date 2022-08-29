@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamara</h1>
-<h3 align="center">A passionate Project Manager and full-stack developer from Spain, with a special interest in front-end 👩🏻‍🎨</h3>
+<h3 align="center">A passionate entrepreneur and full-stack developer from Spain, with a special interest in front-end and creativity. 👩🏻‍🎨</h3>
 
-- 🔭 I’m currently working on [Con cola & pajarita](https://concolaypajarita.com/)
+- 🔭 I’m the creator of [Con cola & pajarita](https://concolaypajarita.com/)
 - 👯 I’m looking to collaborate on **any creative projects!**
 - 🤝 I’m looking for help with [Deal app](http://deal-app.me/)
 - 👨‍💻 All of my projects are available at [https://troopl.com/tamaratgz](https://troopl.com/tamaratgz)
